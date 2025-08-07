@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ConvertorMoedas</string>
+
+    <string-array name="list">
+        <item>BRL</item>
+        <item>Metre</item>
+        <item>ARS</item>
+        <item>EUR</item>
+    </string-array>
+</resources>
+
