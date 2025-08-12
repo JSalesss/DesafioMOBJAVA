@@ -1,11 +1,17 @@
 <resources>
     <string name="app_name">ConvertorMoedas</string>
+    <string name="btn_history">Historico</string>
+
 
     <string-array name="list">
         <item>BRL</item>
-        <item>Metre</item>
+        <item>USD</item>
         <item>ARS</item>
         <item>EUR</item>
+        <item>GBP</item> <!-- Libra Esterlina (Reino Unido) -->
+        <item>JPY</item> <!-- Iene Japonês -->
+        <item>CNY</item> <!-- Yuan Chinês -->
     </string-array>
+
 </resources>
 
